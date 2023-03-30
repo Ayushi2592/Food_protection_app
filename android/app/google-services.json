@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913078679053",
+    "project_id": "food-protection-app-5a5d4",
+    "storage_bucket": "food-protection-app-5a5d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913078679053:android:d43833c0f1fdab8d09c744",
+        "android_client_info": {
+          "package_name": "com.example.food_protection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913078679053-78sdkbm6gi0mvbuv66548k3vd9ao2dq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuTG13dTdUld4tr4vvCQSLM1Y_78mPwrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913078679053-78sdkbm6gi0mvbuv66548k3vd9ao2dq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
